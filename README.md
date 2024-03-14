@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Pet Dashboard project! This interactive web application allows users to engage with a virtual pet through simple controls to ensure it remains happy and healthy. With intuitive buttons to feed, play with, and put the pet to sleep, this app provides a charming experience that simulates the care of a digital companion.
+*Welcome to the Pet Dashboard project! This interactive web application allows users to engage with a virtual pet through simple controls to ensure it remains happy and healthy. With intuitive buttons to feed, play with, and put the pet to sleep, this app provides a charming experience that simulates the care of a digital companion.*
 
 ## Features
 
